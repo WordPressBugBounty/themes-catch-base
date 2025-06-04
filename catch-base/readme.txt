@@ -1,8 +1,8 @@
 === Catch Base ===
 Contributors: catchthemes
 Tags: blog, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, front-page-post-form, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
-Requires at least: 5.6
-Tested up to: 6.6
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -85,7 +85,6 @@ Available icons:
 * Email
 * Pinterest
 * Pocket
-* PollDaddy
 * Reddit
 * RSS Feed
 * Spotify
@@ -139,6 +138,14 @@ Added Translation for Danish by Pernille Kvamsdal (pkvamsdal@outlook.com)
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 3.5 (Released: June 04, 2025) =
+* Added: Twitter X, TikTok, Bluesky, and Threads icons
+* Bug Fixed: Sidebar menu closing issue with an adminbar
+* Replaced: Genericons library to Font Awesome
+* Removed: Polldaddy icon
+* Updated: About admin CSS for changelog display
+* Updated: WordPress 6.8 ready
 
 = 3.4.7 (Released: September 02, 2024) =
 * Bug Fixed: Escaping author display name (Reported By Michael  https://patchstack.com)
@@ -418,7 +425,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Base WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Catch Base WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Catch Base is distributed under the terms of the GNU GPL
 
 == Resources ==
@@ -431,9 +438,11 @@ Catch Base is distributed under the terms of the GNU GPL
     3. All other images are self shot image by (CatchThemes.com)
 
 * Font Icons
-    Genericons by Automattic, Inc.
-    Genericons is Licensed under the GPL, version 2 or later
-    http://genericons.com/
+    Font Awesome Free is free, open source, and GPL friendly.
+    Copyright (c) 2024 Fonticons, Inc. (https://fontawesome.com)
+    with Reserved Font Name: "Font Awesome".
+    Fonts: SIL OFL 1.1 License
+    https://fontawesome.com
 
 * JS Files
     HTML5-Shiv is Licensed under the MIT and GPL licenses

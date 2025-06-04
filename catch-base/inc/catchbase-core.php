@@ -274,8 +274,9 @@ function catchbase_scripts() {
 		wp_enqueue_script( 'comment-reply' );
 	}
 
-	//For genericons
-	wp_enqueue_style( 'genericons', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'css/genericons/genericons.css', false, '3.4.1' );
+	// Font Awesome
+	wp_enqueue_style('font-awesome', trailingslashit(esc_url(get_template_directory_uri())) . 'css/font-awesome/css/all.min.css', array(), '6.7.2', 'all');
+
 
 	/**
 	 * Enqueue the styles for the current color scheme for catchbase.
@@ -1453,7 +1454,7 @@ if ( ! function_exists( 'catchbase_scrollup' ) ) {
 
 			//site stats, analytics header code
 			if ( ! $options['disable_scrollup'] ) {
-				$catchbase_scrollup =  '<a href="#masthead" id="scrollup" class="genericon"><span class="screen-reader-text">' . __( 'Scroll Up', 'catch-base' ) . '</span></a>' ;
+				$catchbase_scrollup =  '<a href="#masthead" id="scrollup" class="font-awesome"><span class="screen-reader-text">' . __( 'Scroll Up', 'catch-base' ) . '</span></a>' ;
 			}
 
 			set_transient( 'catchbase_scrollup', $catchbase_scrollup, 86940 );

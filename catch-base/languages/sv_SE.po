@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Base\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-09-02 20:09+0545\n"
-"PO-Revision-Date: 2024-09-02 20:09+0545\n"
+"POT-Creation-Date: 2025-06-04 16:49+0545\n"
+"PO-Revision-Date: 2025-06-04 16:49+0545\n"
 "Last-Translator: Anders <anders@paulcen.se>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
 "Language: sv\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 3.5\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
-"_nx:1,2,4c;esc_html__;esc_attr_x:1,2c;esc_html_e\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;_nx:1,2,4c;esc_html__;esc_attr_x:1,2c;esc_html_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Loco-Target-Locale: sv_SE\n"
 "X-Poedit-SearchPath-0: ..\n"
@@ -97,8 +97,8 @@ msgstr ""
 msgid "Pages:"
 msgstr "Sidor:"
 
-#: ../content-page.php:35 ../inc/catchbase-core.php:622
-#: ../inc/catchbase-core.php:641 ../inc/catchbase-core.php:767
+#: ../content-page.php:35 ../inc/catchbase-core.php:623
+#: ../inc/catchbase-core.php:642 ../inc/catchbase-core.php:768
 msgid "Edit"
 msgstr "Redigera"
 
@@ -195,98 +195,98 @@ msgstr ""
 msgid "Blue"
 msgstr ""
 
-#: ../inc/catchbase-core.php:590
+#: ../inc/catchbase-core.php:591
 msgid "Post navigation"
 msgstr "Inläggsnavigering"
 
-#: ../inc/catchbase-core.php:599
+#: ../inc/catchbase-core.php:600
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
 
-#: ../inc/catchbase-core.php:600
+#: ../inc/catchbase-core.php:601
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
 
-#: ../inc/catchbase-core.php:622
+#: ../inc/catchbase-core.php:623
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: ../inc/catchbase-core.php:632
+#: ../inc/catchbase-core.php:633
 #, php-format
 msgid "%s <span class=\"says\">says:</span>"
 msgstr "%s <span class=\"says\">skriver:</span>"
 
-#: ../inc/catchbase-core.php:638
+#: ../inc/catchbase-core.php:639
 #, php-format
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
 msgstr "%1$s kl. %2$s"
 
-#: ../inc/catchbase-core.php:645
+#: ../inc/catchbase-core.php:646
 msgid "Your comment is awaiting moderation."
 msgstr "Din kommentar inväntar granskning."
 
-#: ../inc/catchbase-core.php:748
+#: ../inc/catchbase-core.php:749
 msgid "<span class=\"screen-reader-text\">Posted on</span>"
 msgstr "<span class=\"screen-reader-text\">Postades den</span>"
 
-#: ../inc/catchbase-core.php:755
+#: ../inc/catchbase-core.php:756
 msgctxt "Used before post author name."
 msgid "<span class=\"screen-reader-text\">Author</span>"
 msgstr "<span class=\"screen-reader-text\">Författare</span>"
 
-#: ../inc/catchbase-core.php:763
+#: ../inc/catchbase-core.php:764
 msgid "Leave a comment"
 msgstr "Lämna en kommentar"
 
-#: ../inc/catchbase-core.php:763
+#: ../inc/catchbase-core.php:764
 msgid "1 Comment"
 msgstr "1 Kommentar"
 
-#: ../inc/catchbase-core.php:763
+#: ../inc/catchbase-core.php:764
 msgid "% Comments"
 msgstr "% Kommentarer"
 
-#: ../inc/catchbase-core.php:784 ../inc/catchbase-core.php:792
+#: ../inc/catchbase-core.php:785 ../inc/catchbase-core.php:793
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
 msgstr ", "
 
-#: ../inc/catchbase-core.php:787
+#: ../inc/catchbase-core.php:788
 msgctxt "Used before category names."
 msgid "<span class=\"screen-reader-text\">Categories</span>"
 msgstr "<span class=\"screen-reader-text\">Kategorier</span>"
 
-#: ../inc/catchbase-core.php:795
+#: ../inc/catchbase-core.php:796
 msgctxt "Used before tag names."
 msgid "<span class=\"screen-reader-text\">Tags</span>"
 msgstr "<span class=\"screen-reader-text\">Taggar</span>"
 
-#: ../inc/catchbase-core.php:1456
+#: ../inc/catchbase-core.php:1457
 msgid "Scroll Up"
 msgstr "Scrolla upp"
 
-#: ../inc/catchbase-core.php:1472
+#: ../inc/catchbase-core.php:1473
 msgid "Posted on"
 msgstr "Publicerat den"
 
-#: ../inc/catchbase-core.php:1473
+#: ../inc/catchbase-core.php:1474
 msgid "By"
 msgstr "Av"
 
-#: ../inc/catchbase-core.php:1514
+#: ../inc/catchbase-core.php:1515
 msgid "Next &rarr;"
 msgstr "Nästa &rarr;"
 
-#: ../inc/catchbase-core.php:1515
+#: ../inc/catchbase-core.php:1516
 msgid "Next post:"
 msgstr "Nästa inlägg:"
 
-#: ../inc/catchbase-core.php:1517
+#: ../inc/catchbase-core.php:1518
 msgid "&larr; Previous"
 msgstr "&larr; Föregående"
 
-#: ../inc/catchbase-core.php:1518
+#: ../inc/catchbase-core.php:1519
 msgid "Previous post:"
 msgstr "Föregående inlägg:"
 
@@ -300,8 +300,8 @@ msgstr "Catch Base is a Premium Responsive WordPress Theme"
 
 #: ../inc/catchbase-default-options.php:70
 msgid ""
-"This is promotion headline. You can edit this from Appearance -> Customize -"
-"> Theme Options -> Promotion Headline Options"
+"This is promotion headline. You can edit this from Appearance -> Customize "
+"-> Theme Options -> Promotion Headline Options"
 msgstr ""
 "Detta är en marknadsföringsrubrik. Du kan ändra detta från  -> Utseende -> "
 "Teman -> Anpassa"
@@ -335,22 +335,22 @@ msgid "Dark"
 msgstr "Mörk"
 
 #: ../inc/catchbase-default-options.php:148
-#: ../inc/catchbase-default-options.php:476
+#: ../inc/catchbase-default-options.php:488
 msgid "Primary Sidebar, Content"
 msgstr "Primär sidofältet, innehåll"
 
 #: ../inc/catchbase-default-options.php:149
-#: ../inc/catchbase-default-options.php:481
+#: ../inc/catchbase-default-options.php:493
 msgid "Content, Primary Sidebar"
 msgstr "Innehåll, primär sidopanel"
 
 #: ../inc/catchbase-default-options.php:150
-#: ../inc/catchbase-default-options.php:486
+#: ../inc/catchbase-default-options.php:498
 msgid "Three Columns ( Secondary Sidebar, Content, Primary Sidebar )"
 msgstr "Tre kolumner (sekundär sidopanel innehåll, primär sidopanel)"
 
 #: ../inc/catchbase-default-options.php:151
-#: ../inc/catchbase-default-options.php:491
+#: ../inc/catchbase-default-options.php:503
 msgid "No Sidebar ( Content Width )"
 msgstr "Ingen sidpanel (innehållets bredd)"
 
@@ -396,7 +396,7 @@ msgid "Disabled"
 msgstr "Inaktiverad"
 
 #: ../inc/catchbase-default-options.php:199
-#: ../inc/catchbase-default-options.php:544
+#: ../inc/catchbase-default-options.php:556
 msgid "Full Image"
 msgstr "Fullständig bild"
 
@@ -405,7 +405,7 @@ msgid "Large Image"
 msgstr "Stor bild"
 
 #: ../inc/catchbase-default-options.php:201
-#: ../inc/catchbase-default-options.php:549
+#: ../inc/catchbase-default-options.php:561
 msgid "Slider Image"
 msgstr "Bildspelsbild"
 
@@ -478,7 +478,6 @@ msgid "Googleplus"
 msgstr "Googleplus"
 
 #: ../inc/catchbase-default-options.php:337
-#: ../inc/catchbase-social-icons.php:37
 msgid "Email"
 msgstr "Email"
 
@@ -524,104 +523,118 @@ msgid "Instagram"
 msgstr "Instagram"
 
 #: ../inc/catchbase-default-options.php:381
-msgid "PollDaddy"
-msgstr "PollDaddy"
-
-#: ../inc/catchbase-default-options.php:385
 msgid "CodePen"
 msgstr "CodePen"
 
-#: ../inc/catchbase-default-options.php:389
+#: ../inc/catchbase-default-options.php:385
 msgid "Path"
 msgstr "Path"
 
-#: ../inc/catchbase-default-options.php:393
+#: ../inc/catchbase-default-options.php:389
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: ../inc/catchbase-default-options.php:397
+#: ../inc/catchbase-default-options.php:393
 msgid "Skype"
 msgstr "Skype"
 
-#: ../inc/catchbase-default-options.php:401
+#: ../inc/catchbase-default-options.php:397
 msgid "Digg"
 msgstr "Digg"
 
-#: ../inc/catchbase-default-options.php:405
+#: ../inc/catchbase-default-options.php:401
 msgid "Reddit"
 msgstr "Reddit"
 
-#: ../inc/catchbase-default-options.php:409
+#: ../inc/catchbase-default-options.php:405
 msgid "Stumbleupon"
 msgstr "Stumbleupon"
 
-#: ../inc/catchbase-default-options.php:413
+#: ../inc/catchbase-default-options.php:409
 msgid "Pocket"
 msgstr "Pocket"
 
-#: ../inc/catchbase-default-options.php:417
+#: ../inc/catchbase-default-options.php:413
 msgid "DropBox"
 msgstr "DropBox"
 
-#: ../inc/catchbase-default-options.php:421
+#: ../inc/catchbase-default-options.php:417
 msgid "Spotify"
 msgstr "Spotify"
 
-#: ../inc/catchbase-default-options.php:425
+#: ../inc/catchbase-default-options.php:421
 msgid "Foursquare"
 msgstr "Foursquare"
 
-#: ../inc/catchbase-default-options.php:429
+#: ../inc/catchbase-default-options.php:425
 msgid "Twitch"
 msgstr "Twitch"
 
-#: ../inc/catchbase-default-options.php:433
+#: ../inc/catchbase-default-options.php:429
 msgid "Website"
 msgstr "Webbsida"
 
-#: ../inc/catchbase-default-options.php:437
+#: ../inc/catchbase-default-options.php:433
 msgid "Phone"
 msgstr "Tel"
 
-#: ../inc/catchbase-default-options.php:441
+#: ../inc/catchbase-default-options.php:437
 msgid "Handset"
 msgstr "Handset"
 
-#: ../inc/catchbase-default-options.php:445
+#: ../inc/catchbase-default-options.php:441
 msgid "Cart"
 msgstr "Kundvagn"
 
-#: ../inc/catchbase-default-options.php:449
+#: ../inc/catchbase-default-options.php:445
 msgid "Cloud"
 msgstr ""
 
-#: ../inc/catchbase-default-options.php:453
+#: ../inc/catchbase-default-options.php:449
 msgid "Link"
 msgstr "Länk"
 
-#: ../inc/catchbase-default-options.php:471
-#: ../inc/catchbase-default-options.php:507
-#: ../inc/catchbase-default-options.php:534
+#: ../inc/catchbase-default-options.php:453
+msgid "Bluesky"
+msgstr ""
+
+#: ../inc/catchbase-default-options.php:457
+#, fuzzy
+#| msgid "Twitter"
+msgid "X Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchbase-default-options.php:461
+msgid "Threads"
+msgstr ""
+
+#: ../inc/catchbase-default-options.php:465
+msgid "Tiktok"
+msgstr ""
+
+#: ../inc/catchbase-default-options.php:483
+#: ../inc/catchbase-default-options.php:519
+#: ../inc/catchbase-default-options.php:546
 msgid "Default"
 msgstr "Förvald"
 
-#: ../inc/catchbase-default-options.php:512
+#: ../inc/catchbase-default-options.php:524
 msgid "Enable"
 msgstr "Aktivera"
 
-#: ../inc/catchbase-default-options.php:517
+#: ../inc/catchbase-default-options.php:529
 msgid "Disable"
 msgstr "Inaktivera"
 
-#: ../inc/catchbase-default-options.php:539
+#: ../inc/catchbase-default-options.php:551
 msgid "Featured Image"
 msgstr "Utvald bild"
 
-#: ../inc/catchbase-default-options.php:554
+#: ../inc/catchbase-default-options.php:566
 msgid "Disable Image"
 msgstr "Inaktivera bild"
 
-#: ../inc/catchbase-default-options.php:569
+#: ../inc/catchbase-default-options.php:581
 #, fuzzy, php-format
 #| msgctxt "1: Year, 2: Site Title with home URL"
 #| msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
@@ -629,15 +642,15 @@ msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
 msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
 msgstr "Copyright © %1$s %2$s. Alla rättigheter reserverade."
 
-#: ../inc/catchbase-default-options.php:569
-#: ../inc/catchbase-default-options.php:572
+#: ../inc/catchbase-default-options.php:581
+#: ../inc/catchbase-default-options.php:584
 #, fuzzy
 #| msgctxt "yearly archives date format"
 #| msgid "Y"
 msgid "Y"
 msgstr "Å"
 
-#: ../inc/catchbase-default-options.php:572
+#: ../inc/catchbase-default-options.php:584
 #, fuzzy, php-format
 #| msgctxt "1: Year, 2: Site Title with home URL"
 #| msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
@@ -645,7 +658,7 @@ msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
 msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
 msgstr "Copyright © %1$s %2$s. Alla rättigheter reserverade."
 
-#: ../inc/catchbase-default-options.php:575
+#: ../inc/catchbase-default-options.php:587
 msgid "by"
 msgstr "av"
 
@@ -1252,6 +1265,9 @@ msgid ""
 msgstr ""
 "Detta är den primära sidopanelen om du använder en två eller tre kolumn "
 "webbplats layoutalternativ."
+
+#~ msgid "PollDaddy"
+#~ msgstr "PollDaddy"
 
 #~ msgid "Fade"
 #~ msgstr "Tona"

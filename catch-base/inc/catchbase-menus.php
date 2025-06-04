@@ -40,7 +40,7 @@ function catchbase_primary_menu() {
                 }
 
                 ?>
-                <div id="search-toggle" class="genericon">
+                <div id="search-toggle" class="font-awesome">
                     <a class="screen-reader-text" href="#search-container"><?php esc_html_e( 'Search', 'catch-base' ); ?></a>
                 </div>
 
@@ -142,7 +142,7 @@ function catchbase_mobile_header_nav_anchor() {
     ?>
 
     <div id="mobile-header-left-menu" class="<?php echo $classes; ?>">
-        <a href="#mobile-header-left-nav" id="header-left-menu" class="genericon genericon-menu">
+        <a href="#mobile-header-left-nav" id="header-left-menu" class="font-awesome fa-menu">
             <span class="mobile-menu-text"><?php _e( 'Menu', 'catch-base' );?></span>
         </a>
     </div><!-- #mobile-header-menu -->
@@ -161,7 +161,7 @@ function catchbase_mobile_secondary_nav_anchor() {
     if ( has_nav_menu( 'secondary' ) ) {
         ?>
         <div id="mobile-header-right-menu" class="mobile-menu-anchor secondary-menu">
-            <a href="#mobile-header-right-menu" id="secondary-menu" class="genericon genericon-menu">
+            <a href="#mobile-header-right-menu" id="secondary-menu" class="font-awesome fa-menu">
                 <span class="mobile-menu-text"><?php _e( 'Menu', 'catch-base' );?></span>
             </a>
         </div><!-- #mobile-header-menu -->
