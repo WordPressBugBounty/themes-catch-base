@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Base\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-04 16:48+0545\n"
-"PO-Revision-Date: 2025-06-04 16:48+0545\n"
+"POT-Creation-Date: 2025-12-09 19:06+0545\n"
+"PO-Revision-Date: 2025-12-09 19:06+0545\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
 "Language: hu_HU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: "
 "__;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;_nx:1,2,4c;esc_html__;esc_attr_x:1,2c;esc_html_e\n"
@@ -97,8 +97,8 @@ msgstr "Úgy tűnik, nem található a kért anyag. Talán a kereső segíthet."
 msgid "Pages:"
 msgstr "Oldalak:"
 
-#: ../content-page.php:35 ../inc/catchbase-core.php:623
-#: ../inc/catchbase-core.php:642 ../inc/catchbase-core.php:768
+#: ../content-page.php:35 ../inc/catchbase-core.php:619
+#: ../inc/catchbase-core.php:638 ../inc/catchbase-core.php:764
 msgid "Edit"
 msgstr "Szerkesztés"
 
@@ -195,98 +195,98 @@ msgstr ""
 msgid "Blue"
 msgstr ""
 
-#: ../inc/catchbase-core.php:591
+#: ../inc/catchbase-core.php:587
 msgid "Post navigation"
 msgstr "Bejegyzés navigáció"
 
-#: ../inc/catchbase-core.php:600
+#: ../inc/catchbase-core.php:596
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">&larr;</span> Régebbi cikkek"
 
-#: ../inc/catchbase-core.php:601
+#: ../inc/catchbase-core.php:597
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Újabb cikkek <span class=\"meta-nav\">&rarr;</span>"
 
-#: ../inc/catchbase-core.php:623
+#: ../inc/catchbase-core.php:619
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: ../inc/catchbase-core.php:633
+#: ../inc/catchbase-core.php:629
 #, php-format
 msgid "%s <span class=\"says\">says:</span>"
 msgstr "%s <span class=\"says\">szerint:</span>"
 
-#: ../inc/catchbase-core.php:639
+#: ../inc/catchbase-core.php:635
 #, php-format
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
 msgstr "%1$s a %2$s-ből"
 
-#: ../inc/catchbase-core.php:646
+#: ../inc/catchbase-core.php:642
 msgid "Your comment is awaiting moderation."
 msgstr "A hozzászólása moderálásra vár."
 
-#: ../inc/catchbase-core.php:749
+#: ../inc/catchbase-core.php:745
 msgid "<span class=\"screen-reader-text\">Posted on</span>"
 msgstr "<span class=\"screen-reader-text\">Közzétéve</span>"
 
-#: ../inc/catchbase-core.php:756
+#: ../inc/catchbase-core.php:752
 msgctxt "Used before post author name."
 msgid "<span class=\"screen-reader-text\">Author</span>"
 msgstr "<span class=\"screen-reader-text\">Szerző</span>"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "Leave a comment"
 msgstr "Szóljon hozzá!"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "1 Comment"
 msgstr "1 hozzászólás"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "% Comments"
 msgstr "% hozzászólás"
 
-#: ../inc/catchbase-core.php:785 ../inc/catchbase-core.php:793
+#: ../inc/catchbase-core.php:781 ../inc/catchbase-core.php:789
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
 msgstr ","
 
-#: ../inc/catchbase-core.php:788
+#: ../inc/catchbase-core.php:784
 msgctxt "Used before category names."
 msgid "<span class=\"screen-reader-text\">Categories</span>"
 msgstr "<span class=\"screen-reader-text\">Kategóriák</span>"
 
-#: ../inc/catchbase-core.php:796
+#: ../inc/catchbase-core.php:792
 msgctxt "Used before tag names."
 msgid "<span class=\"screen-reader-text\">Tags</span>"
 msgstr "<span class=\"screen-reader-text\">Címkék</span>"
 
-#: ../inc/catchbase-core.php:1457
+#: ../inc/catchbase-core.php:1453
 msgid "Scroll Up"
 msgstr "Felfelé görgetés"
 
-#: ../inc/catchbase-core.php:1473
+#: ../inc/catchbase-core.php:1469
 msgid "Posted on"
 msgstr "Közzétéve"
 
-#: ../inc/catchbase-core.php:1474
+#: ../inc/catchbase-core.php:1470
 msgid "By"
 msgstr "Írta:"
 
-#: ../inc/catchbase-core.php:1515
+#: ../inc/catchbase-core.php:1511
 msgid "Next &rarr;"
 msgstr "Következő &rarr;"
 
-#: ../inc/catchbase-core.php:1516
+#: ../inc/catchbase-core.php:1512
 msgid "Next post:"
 msgstr "Következő bejegyzés"
 
-#: ../inc/catchbase-core.php:1518
+#: ../inc/catchbase-core.php:1514
 msgid "&larr; Previous"
 msgstr "&larr; Előző"
 
-#: ../inc/catchbase-core.php:1519
+#: ../inc/catchbase-core.php:1515
 msgid "Previous post:"
 msgstr "Előző bejegyzés"
 

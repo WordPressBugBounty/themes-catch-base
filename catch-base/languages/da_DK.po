@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Base\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-04 16:48+0545\n"
-"PO-Revision-Date: 2025-06-04 16:48+0545\n"
+"POT-Creation-Date: 2025-12-09 19:06+0545\n"
+"PO-Revision-Date: 2025-12-09 19:06+0545\n"
 "Last-Translator: Kurt <catchme@vindu.dk>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
 "Language: da_DK\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-KeywordsList: "
 "__;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;_nx:1,2,4c;esc_html__;esc_html_e;esc_attr_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
@@ -93,8 +93,8 @@ msgstr ""
 msgid "Pages:"
 msgstr "Sider:"
 
-#: ../content-page.php:35 ../inc/catchbase-core.php:623
-#: ../inc/catchbase-core.php:642 ../inc/catchbase-core.php:768
+#: ../content-page.php:35 ../inc/catchbase-core.php:619
+#: ../inc/catchbase-core.php:638 ../inc/catchbase-core.php:764
 msgid "Edit"
 msgstr "Rediger"
 
@@ -191,98 +191,98 @@ msgstr ""
 msgid "Blue"
 msgstr ""
 
-#: ../inc/catchbase-core.php:591
+#: ../inc/catchbase-core.php:587
 msgid "Post navigation"
 msgstr "indlægs navigation"
 
-#: ../inc/catchbase-core.php:600
+#: ../inc/catchbase-core.php:596
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\"> ← </ span> Ældre indlæg"
 
-#: ../inc/catchbase-core.php:601
+#: ../inc/catchbase-core.php:597
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Nyere indlæg <span class=\"meta-nav\"> → </ span>"
 
-#: ../inc/catchbase-core.php:623
+#: ../inc/catchbase-core.php:619
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: ../inc/catchbase-core.php:633
+#: ../inc/catchbase-core.php:629
 #, php-format
 msgid "%s <span class=\"says\">says:</span>"
 msgstr "%s <span class=\"says\">skriver:</span>"
 
-#: ../inc/catchbase-core.php:639
+#: ../inc/catchbase-core.php:635
 #, php-format
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
 msgstr "%1$s kl. %2$s"
 
-#: ../inc/catchbase-core.php:646
+#: ../inc/catchbase-core.php:642
 msgid "Your comment is awaiting moderation."
 msgstr "Din kommentar venter på at blive godkendt"
 
-#: ../inc/catchbase-core.php:749
+#: ../inc/catchbase-core.php:745
 msgid "<span class=\"screen-reader-text\">Posted on</span>"
 msgstr "<span class=\"screen-reader-text\">Udgivet den</span>"
 
-#: ../inc/catchbase-core.php:756
+#: ../inc/catchbase-core.php:752
 msgctxt "Used before post author name."
 msgid "<span class=\"screen-reader-text\">Author</span>"
 msgstr "<span class=\"screen-reader-text\">Forfatter</span>"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "Leave a comment"
 msgstr "Skriv en kommentar"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "1 Comment"
 msgstr "1 kommentar"
 
-#: ../inc/catchbase-core.php:764
+#: ../inc/catchbase-core.php:760
 msgid "% Comments"
 msgstr "% kommentarer"
 
-#: ../inc/catchbase-core.php:785 ../inc/catchbase-core.php:793
+#: ../inc/catchbase-core.php:781 ../inc/catchbase-core.php:789
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
 msgstr ", "
 
-#: ../inc/catchbase-core.php:788
+#: ../inc/catchbase-core.php:784
 msgctxt "Used before category names."
 msgid "<span class=\"screen-reader-text\">Categories</span>"
 msgstr "<span class=\"screen-reader-text\">kategorier</span>"
 
-#: ../inc/catchbase-core.php:796
+#: ../inc/catchbase-core.php:792
 msgctxt "Used before tag names."
 msgid "<span class=\"screen-reader-text\">Tags</span>"
 msgstr "<span class=\"screen-reader-text\">Tags</span>"
 
-#: ../inc/catchbase-core.php:1457
+#: ../inc/catchbase-core.php:1453
 msgid "Scroll Up"
 msgstr "Rul op"
 
-#: ../inc/catchbase-core.php:1473
+#: ../inc/catchbase-core.php:1469
 msgid "Posted on"
 msgstr "Udgivet den"
 
-#: ../inc/catchbase-core.php:1474
+#: ../inc/catchbase-core.php:1470
 msgid "By"
 msgstr "Af"
 
-#: ../inc/catchbase-core.php:1515
+#: ../inc/catchbase-core.php:1511
 msgid "Next &rarr;"
 msgstr "Næste &rarr;"
 
-#: ../inc/catchbase-core.php:1516
+#: ../inc/catchbase-core.php:1512
 msgid "Next post:"
 msgstr "Næste indlæg:"
 
-#: ../inc/catchbase-core.php:1518
+#: ../inc/catchbase-core.php:1514
 msgid "&larr; Previous"
 msgstr "&larr; Forrige"
 
-#: ../inc/catchbase-core.php:1519
+#: ../inc/catchbase-core.php:1515
 msgid "Previous post:"
 msgstr "Forrige indlæg:"
 

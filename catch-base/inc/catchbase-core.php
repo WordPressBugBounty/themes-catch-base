@@ -327,10 +327,6 @@ function catchbase_scripts() {
 	 * Enqueue custom script for catchbase.
 	 */
 	wp_enqueue_script( 'catchbase-custom-scripts', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/catchbase-custom-scripts.min.js', array( 'jquery' ), null );
-
-	// Load the html5 shiv.
-	wp_enqueue_script( 'catchbase-html5', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/html5.min.js', array(), '3.7.3' );
-	wp_script_add_data( 'catchbase-html5', 'conditional', 'lt IE 9' );
 }
 add_action( 'wp_enqueue_scripts', 'catchbase_scripts' );
 
