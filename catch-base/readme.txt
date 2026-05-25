@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: blog, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, front-page-post-form, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 Requires at least: 5.9
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -138,6 +138,9 @@ Added Translation for Danish by Pernille Kvamsdal (pkvamsdal@outlook.com)
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 3.5.2 (Released: May 25, 2026) =
+* Updated: WordPress 7.0 ready
 
 = 3.5.1 (Released: December 09, 2025) =
 * Bug Fixed: Deprecated Function WP_Dependencies-add_data() warning after WordPress update 6.9
@@ -429,7 +432,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Base WordPress Theme, Copyright 2012-2025 Catchthemes.com
+Catch Base WordPress Theme, Copyright 2012-2026 Catchthemes.com
 Catch Base is distributed under the terms of the GNU GPL
 
 == Resources ==
